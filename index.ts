@@ -50,5 +50,3 @@ class TreeStore {
   }
 }
 const treeStore = new TreeStore();
-console.log(treeStore.getAllParents(12))
-//Большая просьба если что не так реализовано, то в обратной связи рассказать пожалуйста что и почему!)
